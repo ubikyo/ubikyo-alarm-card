@@ -16,9 +16,5 @@ Download using **HACS**
  5. Click on add and check if the repository is there.
  6. You should now see ubikyo-alarm-card.js card. Click `INSTALL`
 
- Or click on the next button :
-
- [![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=jquintard&repository=https%3A%2F%2Fgithub.com%2Fubikyo%2Fubikyo-alarm-card&category=Lovelace)
-
 ## Contact
 **jquintard@ubikyo.com**
