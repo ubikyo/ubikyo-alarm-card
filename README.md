@@ -1,5 +1,7 @@
 # ubikyo-alarm-card
-**An alternative alam control for home assistant!**
+**An alternative alam control panel for home assistant!**
+
+A control panel made specifically for SonOff NSpanel Pro updated with the Home Assistant companion.
 
 ## Roadmap
 This is still work in progress.
